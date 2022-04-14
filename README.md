@@ -1,7 +1,7 @@
 # bootstrap-website
 Website design using HTML, CSS and Bootstrap
 
-Website link: https://karimjans-portfolio.netlify.app
+Website link: https://karimjans-bootstrap-portfolio.netlify.app
 
 Telegram: https://t.me/karimjan_webdev
 
